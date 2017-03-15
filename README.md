@@ -4,7 +4,8 @@ Rules for participant behavior.
 Recycle Ithaca's Bicycles
 Participant Policies
 
-• Please Sign In- If it's your first time here, also
+> Please Sign In-
+If it's your first time here, also
 fill out a participation form.
 
 • Hands Off Approach- RIBs values learning,
