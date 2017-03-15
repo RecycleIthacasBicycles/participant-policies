@@ -2,21 +2,21 @@
 Recycle Ithaca's Bicycles
 Participant Policies:
 
-> Please Sign In-
+> Please Sign In.
 
 If it's your first time here, also
 fill out a participation form.
 
-> Hands Off Approach-
+> Hands Off Approach.
 
 RIBs values learning,
 education, and empowerment. We don't fix things
 for you, rather we help you do it yourself.
 
-> Ask for Help-
+> Ask for Help.
 
 If you don't know how to use a
-tool or part please ask.
+tool or part, please ask.
 
 > Open Shop & Used Parts
 
@@ -33,7 +33,7 @@ have been inspected and
 repaired by RIBs staff. They are guaranteed against
 defects for 30 days.
 
-> Build a Bike Program-
+> Build a Bike Program.
 
 Bikes not for sale or
 otherwise allocated can be repaired, rebuilt, or just
@@ -41,7 +41,7 @@ plain built from parts freely available on site. Once
 the bike meets our safety standards, you may thenown the bicycle if you wish (and even ride it home
 ^_^ ).
 
-> RIBs is Elite But Not Elitist-
+> RIBs is Elite, But Not Elitist,
 
 We hold
 that a bicycle should be judged by its safety, its
@@ -50,7 +50,7 @@ utility. RIBs upholds the bicycle as an object of art
 and purpose regardless of the price tag, the
 pedigree, the popularity, or current fashion trends.
 
-> RIBs is a Safer Space-
+> RIBs is a Safer Space.
 
 This means that we
 don't tolerate language or behavior that is sexist,
