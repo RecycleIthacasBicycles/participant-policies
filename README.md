@@ -1,6 +1,6 @@
 # participant-policies
 Recycle Ithaca's Bicycles
-Participant Policies
+Participant Policies:
 
 > Please Sign In-
 
