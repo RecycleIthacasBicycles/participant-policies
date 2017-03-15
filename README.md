@@ -1,6 +1,4 @@
 # participant-policies
-Rules for participant behavior.
-
 Recycle Ithaca's Bicycles
 Participant Policies
 
