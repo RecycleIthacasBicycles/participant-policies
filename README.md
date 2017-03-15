@@ -15,7 +15,9 @@ RIBs values learning,
 education, and empowerment. We don't fix things
 for you, rather we help you do it yourself.
 
-> Ask for Help- If you don't know how to use a
+> Ask for Help-
+
+If you don't know how to use a
 tool or part please ask.
 
 > Open Shop & Used Parts
