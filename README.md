@@ -9,7 +9,7 @@ fill out a participation form.
 
 > Hands Off Approach.
 
-RIBs values learning,
+RIB values learning,
 education, and empowerment. We don't fix things
 for you, rather we help you do it yourself.
 
@@ -41,7 +41,7 @@ plain built from parts freely available on site. Once
 the bike meets our safety standards, you may thenown the bicycle if you wish (and even ride it home
 ^_^ ).
 
-> RIBs is Elite, But Not Elitist,
+> RIB is Elite, But Not Elitist,
 
 We hold
 that a bicycle should be judged by its safety, its
@@ -50,7 +50,7 @@ utility. RIBs upholds the bicycle as an object of art
 and purpose regardless of the price tag, the
 pedigree, the popularity, or current fashion trends.
 
-> RIBs is a Safer Space.
+> RIB is a Safer Space.
 
 This means that we
 don't tolerate language or behavior that is sexist,
